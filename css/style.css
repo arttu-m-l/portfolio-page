@@ -38,7 +38,11 @@ nav {
 	/*overflow: hidden;*/
 	position: fixed;
 	flex-wrap: wrap;
+	display: flex;
+	justify-content: center;
 }
+
+
 
 #nav a {
 	font-weight: 600;
@@ -66,6 +70,8 @@ nav {
 	padding-bottom: 7.5em;
 	margin: 0;
 }
+
+
 
 .home-container {
 	padding-top: 3em;
@@ -311,6 +317,10 @@ section, article {
 		width: 45%;
 		
 	}
+
+	.nav-container {
+		width: 60%;
+	}
 }
 /* narrow 600px viewport */
 @media only screen and (max-width: 600px) {
@@ -335,6 +345,10 @@ section, article {
 		width: 100%;
 		/*margin-left: 2.5%;
 		margin-right: 2.5%;*/
+	}
+
+	.nav-container {
+		width: 100%;
 	}
 } 
 
