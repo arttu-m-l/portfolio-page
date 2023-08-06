@@ -80,6 +80,7 @@ nav {
 	flex-direction: row;
 	justify-content: center;
 	flex-wrap: wrap;
+	gap: 1em;
 }
 
 .home-inner-container {
@@ -196,7 +197,7 @@ section, article {
 }
 
 .image-container {
-	margin-right: 1.5em;
+	/*margin-right: 1.5em;*/
 }
 
 .header-container {
