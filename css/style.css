@@ -417,7 +417,7 @@ hr {
 }
 
 .namelist {
-	color: rgba(140, 140, 140, 0.599);
-	font-weight: 600;
+	color: white;
+	/*font-weight: 100;*/
 	text-shadow: -1px -1px 0px #1f1e1e;
 }
