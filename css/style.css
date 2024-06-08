@@ -422,3 +422,11 @@ hr {
 	/*font-weight: 100;*/
 	text-shadow: -1px -1px 0px #1f1e1e;
 }
+
+.linkedin-image {
+	width: 30px;
+}
+
+.github-image {
+	width: 30px;
+}
