@@ -432,3 +432,16 @@ hr {
 	width: 2em;
 	height: 2em;
 }
+
+.contact-header {
+	padding-top: 1.5em;
+	padding-bottom: 1em;
+	font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+
+h4 {
+	font-weight: 300;
+	font-size: 1.25em;
+	margin-top: 15px;
+	color: white;
+}
