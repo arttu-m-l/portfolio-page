@@ -424,9 +424,11 @@ hr {
 }
 
 .linkedin-image {
-	width: 30px;
+	width: 2em;
+	height: 2em;
 }
 
 .github-image {
-	width: 30px;
+	width: 2em;
+	height: 2em;
 }
