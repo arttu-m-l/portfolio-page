@@ -3,7 +3,7 @@ var nav = document.getElementById("nav");
 var sticky = navbar.offsetTop;
 
 function myFunction() {
-  if (window.pageYOffset >= sticky) {
+  if (window.scrollY >= sticky) {
     nav.classList.add("sticky")
   } else {
     nav.classList.remove("sticky");
